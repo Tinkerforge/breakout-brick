@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Do 25 Aug 2011 13:44:50 CEST
+EESchema Schematic File Version 2  date Fr 26 Aug 2011 16:11:07 CEST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -736,7 +736,7 @@ L B0520LW-7-F D1
 U 1 1 4CC95F20
 P 9850 2150
 F 0 "D1" H 9850 2150 40  0000 C CNN
-F 1 "PMEG1020EH" H 9850 2250 40  0000 C CNN
+F 1 "B0520LW-7-F" H 9850 2250 40  0000 C CNN
 F 2 "SOD-123" H 9850 2050 60  0001 C CNN
 	1    9850 2150
 	-1   0    0    1   
